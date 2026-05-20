@@ -1,8 +1,0 @@
-<<<<<<<< HEAD
-new jhanufile in main branch for merge conflits
-===========
-new jhanu created in main branch
-
->>>>>>>>> main
-~
-
